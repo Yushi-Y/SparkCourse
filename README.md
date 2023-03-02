@@ -1,2 +1,2 @@
 # SparkCourse
-Udemy PySpark Course Scripts
+The Scripts from the Udemy PySpark Course
