@@ -1,2 +1,2 @@
 # SparkCourse
-Exercises from the Udemy PySpark Course
+Exercises completed from the Udemy PySpark Course
