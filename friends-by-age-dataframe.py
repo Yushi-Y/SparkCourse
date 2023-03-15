@@ -15,7 +15,7 @@ friendsByAge.groupBy("age").avg("friends").show()
 # Sorted
 friendsByAge.groupBy("age").avg("friends").sort("age").show()
 
-# Formatted more nicely
+# Formatted more nicely - agg is the aggregation funtion
 friendsByAge.groupBy("age").agg(func.round(func.avg("friends"), 2)).sort("age").show()
 
 # With a custom column name
