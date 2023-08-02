@@ -1,2 +1,2 @@
 # SparkCourse
-Exercises from the Udemy PySpark Course
+Udemy PySpark Course Scripts and Exercises
